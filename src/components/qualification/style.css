@@ -1,0 +1,33 @@
+.my-img
+{
+    width: 340px;
+    height:500px;
+    overflow: hidden;
+    position: absolute;
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+}
+.my-img img
+{
+    max-height: 340px;
+    max-height: 500px;
+}
+.button-edu
+{
+    display: flex;
+    justify-content: center;
+    background:#fff;
+    border-radius: 20px;
+    padding:15px 10px;
+    margin-top: 380px;
+    width:300px;
+    height:70px;
+    margin-left: 25px;
+    z-index: 1;
+    align-items: center;
+
+
+}

@@ -1,0 +1,19 @@
+.me-img
+{
+    width:520px;
+    height:445px;
+    overflow:hidden;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+
+}
+.me-img img
+{
+    max-width: 520px;
+    max-height: 400px;
+    background-color: #ccc;
+
+
+}
